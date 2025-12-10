@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shivanshu0729
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning python, web development, c++
-- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me email id: shivanshugangwar4@gmail.com
 
 <!---
