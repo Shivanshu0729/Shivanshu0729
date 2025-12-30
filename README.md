@@ -81,12 +81,6 @@ My focus is on building interpretable, real-world ML solutions while continuousl
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Shivanshu0729&theme=radical&no-frame=true&margin-w=5)
-
----
-
 ### 🚀 Goals for 2025
 
 - Build more **end-to-end ML projects**
