@@ -12,8 +12,7 @@ My focus is on building interpretable, real-world ML solutions while continuousl
 - 🔭 Currently working on: **Machine Learning projects & model experimentation**
 - 🤝 Open to collaborate on: **ML research, beginner-friendly AI learning initiatives & open-source**
 - 🎯 Learning & improving: **Machine Learning · Deep Learning · SQL · Data Structures**
-- 💡 Ask me about: **ML fundamentals, intuition behind algorithms, model workflows**
-- 😄 Fun fact:  
+- 💡 Ask me about: **ML fundamentals, intuition behind algorithms, model workflows** 
   > I enjoy simplifying complex ML topics into easy-to-understand explanations.
 
 ---
@@ -85,7 +84,6 @@ My focus is on building interpretable, real-world ML solutions while continuousl
 
 - Build more **end-to-end ML projects**
 - Improve **model evaluation & experiment tracking**
-- Contribute to **open-source ML repos**
 - Strengthen **DSA & problem-solving**
 
 ---
