@@ -1,12 +1,22 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivanshu%20Gangwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivanshu%20Gangwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&descColor=c4b5fd" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+ML+Engineer+%F0%9F%A4%96;Building+Real-World+ML+Solutions+%F0%9F%9A%80;Deep+Learning+%7C+CV+%7C+Data+Science+%F0%9F%93%8A;Open+to+Collaborate+%26+Learn+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+Real-World+ML+Solutions+%F0%9F%9A%80;Deep+Learning+%7C+Computer+Vision+%7C+Data+Science;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Collaborate+%26+Contribute+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shivanshu0729&label=Profile+Views&color=7c3aed&style=flat-square" />
+&nbsp;
+<a href="https://github.com/Shivanshu0729?tab=followers">
+  <img src="https://img.shields.io/github/followers/Shivanshu0729?label=Followers&style=flat-square&color=7c3aed" />
+</a>
+
+</div>
 
 <br/>
 
@@ -14,19 +24,17 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="ML Coding GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ3NHJ3a2V6bTNybHp2Yzg0d2g4ZG5waXBsaXR4b3dsMHFxcGp6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+I'm a dedicated **Machine Learning Engineer** focused on designing interpretable, end-to-end ML systems that bridge complex theory with production-ready deployment. My work centers on building solutions that are not just accurate — but explainable, maintainable, and impactful.
 
-I'm a passionate **Machine Learning Engineer** focused on building interpretable, end-to-end ML systems that solve real-world problems. I enjoy bridging the gap between complex theory and practical deployment.
-
-- 🔭 Currently working on **end-to-end ML projects & deep learning experiments**
-- 🤝 Open to collaborate on **ML research, beginner-friendly AI & open-source**
-- 🎯 Sharpening skills in **Deep Learning · SQL · DSA · Model Evaluation**
-- 💡 I love **simplifying complex ML concepts** into easy-to-understand intuitions
-- 📬 Reach me at: **shivanshugangwar4@gmail.com**
+- 🔭 **Currently building:** End-to-end ML pipelines & deep learning experiments
+- 🤝 **Open to:** ML research, beginner-friendly AI initiatives & open-source contributions
+- 🎯 **Actively improving:** Deep Learning · SQL · DSA · Model Evaluation & Tracking
+- 💡 **Passion:** Simplifying complex ML concepts into clear, intuitive explanations
+- 📬 **Reach me:** shivanshugangwar4@gmail.com
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -44,15 +52,15 @@ I'm a passionate **Machine Learning Engineer** focused on building interpretable
 
 <div align="center">
 
-| 🏆 Project | 📌 Description | 🔧 Tech |
-|------------|---------------|---------|
-| [**Customer Retention Intelligence & Revenue Risk Dashboard**](https://github.com/Shivanshu0729/Customer-Retention-Intelligence-Revenue-Risk-Dashboard) | End-to-end churn analytics with cohort analysis, revenue risk scoring, and interactive retention insights dashboard | Python · Scikit-learn · Plotly · Streamlit |
-| [**HandSafeNet — Hand Gesture Safety Model**](https://github.com/Shivanshu0729/HandSafeNet-Model) | Deep learning model for real-time hand gesture detection and safety classification using computer vision | Python · OpenCV · TensorFlow · Keras |
-| [**Traffic Signal Optimization using ML**](https://github.com/Shivanshu0729/Traffic_Optimization_project) | ML-powered dynamic traffic flow prediction & intelligent signal timing optimization system | Python · Scikit-learn · NumPy · Pandas |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🧩 [**Customer Retention Intelligence & Revenue Risk Dashboard**](https://github.com/Shivanshu0729/Customer-Retention-Intelligence-Revenue-Risk-Dashboard) | End-to-end churn analytics platform with cohort analysis, revenue risk scoring, and an interactive retention insights dashboard | Python · Scikit-learn · Plotly · Streamlit |
+| 🖐️ [**HandSafeNet — Hand Gesture Safety Model**](https://github.com/Shivanshu0729/HandSafeNet-Model) | Real-time hand gesture detection and safety classification system built on deep learning and computer vision | Python · OpenCV · TensorFlow · Keras |
+| 🚦 [**Traffic Signal Optimization using ML**](https://github.com/Shivanshu0729/Traffic_Optimization_project) | ML-powered dynamic traffic flow prediction engine with intelligent signal timing optimization | Python · Scikit-learn · NumPy · Pandas |
 
 </div>
 
-> 🔨 *Actively improving documentation, adding experiment tracking, and polishing repositories — more coming soon!*
+> 🔨 *Continuously improving documentation, integrating MLflow experiment tracking, and shipping new projects — stay tuned.*
 
 ---
 
@@ -95,57 +103,38 @@ I'm a passionate **Machine Learning Engineer** focused on building interpretable
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivanshu0729&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu0729&theme=tokyonight&hide_border=true&layout=compact" height="180" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shivanshu0729&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu0729&theme=tokyo-night&hide_border=true&area=true&line=a78bfa&point=ffffff&color=c4b5fd&bg_color=0d1117&title_color=a78bfa&radius=6" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 2025 Roadmap
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshu0729&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+```python
+goals_2025 = {
+    "projects"    : "Ship end-to-end ML projects with clean, reproducible code",
+    "tracking"    : "Integrate MLflow experiment tracking across all pipelines",
+    "DSA"         : "Strengthen algorithmic problem-solving & competitive coding",
+    "open_source" : "Make meaningful contributions to ML open-source projects",
+    "deployment"  : "Deploy production-ready models with real-world usage",
+}
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu0729&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-## 🎯 2025 Goals
-
-```
-✅ Build end-to-end ML projects with clean documentation
-🔄 Improve model evaluation & experiment tracking with MLflow
-🔄 Strengthen DSA & competitive problem-solving
-🔄 Contribute to open-source ML projects
-🔄 Deploy production-ready ML models
+status = "In Progress 🚧"
 ```
 
 ---
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-**⭐ Star my repositories if you find them useful — it motivates me to build more!**
+**If you find my work useful, a ⭐ goes a long way — it keeps me building.**
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"First, solve the problem. Then, write the code."*
 
 </div>
