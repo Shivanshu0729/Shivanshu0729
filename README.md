@@ -10,15 +10,6 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Shivanshu0729&label=Profile+Views&color=7c3aed&style=flat-square" />
-&nbsp;
-<a href="https://github.com/Shivanshu0729?tab=followers">
-  <img src="https://img.shields.io/github/followers/Shivanshu0729?label=Followers&style=flat-square&color=7c3aed" />
-</a>
-
-</div>
-
 ---
 
 ## 🧠 About Me
