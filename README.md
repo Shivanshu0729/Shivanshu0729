@@ -133,11 +133,13 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivanshu0729/Shivanshu0729/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivanshu0729/Shivanshu0729/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Shivanshu0729/Shivanshu0729/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu0729&theme=tokyo-night&hide_border=true&area=true&line=9D7FEA&point=c4b5fd&color=E2D9F3&bg_color=0d1117&title_color=9D7FEA&area_color=6d28d9&radius=8&custom_title=Shivanshu's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shivanshu0729&theme=tokyonight&hide_border=true&ring=9D7FEA&fire=c4b5fd&currStreakLabel=9D7FEA&background=0d1117&stroke=6d28d9&currStreakNum=E2D9F3&sideLabels=9D7FEA&sideNums=E2D9F3&dates=6d28d9" width="60%" />
 
 </div>
 
