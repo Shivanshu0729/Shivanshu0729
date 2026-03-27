@@ -139,7 +139,7 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shivanshu0729&theme=tokyonight&hide_border=true&ring=9D7FEA&fire=c4b5fd&currStreakLabel=9D7FEA&background=0d1117&stroke=6d28d9&currStreakNum=E2D9F3&sideLabels=9D7FEA&sideNums=E2D9F3&dates=6d28d9" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Shivanshu0729&theme=tokyonight&hide_border=true&ring=9D7FEA&fire=c4b5fd&currStreakLabel=9D7FEA&background=0d1117&stroke=6d28d9&currStreakNum=E2D9F3&sideLabels=9D7FEA&sideNums=E2D9F3&dates=6d28d9" width="60%" />
 
 </div>
 
