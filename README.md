@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=220&section=header&text=Shivanshu%20Gangwar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Computer%20Vision&descAlignY=60&descSize=16&descColor=E2D9F3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Shivanshu%20Gangwar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Computer%20Vision&descAlignY=60&descSize=16&descColor=FFFFFF" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=9D7FEA&center=true&vCenter=true&width=680&lines=Building+Real-World+ML+Projects+%F0%9F%9A%80;Deep+Learning+%7C+Computer+Vision+%7C+Predictive+Analytics;Turning+Data+into+Meaningful+Decisions+%F0%9F%93%8A;Always+Learning+%2C+Always+Building+%F0%9F%94%AC)](https://git.io/typing-svg)
 
@@ -57,6 +57,21 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 </td>
 <td width="50%" valign="top">
 
+### 🤖 AI Config Generator System
+> An intelligent configuration generation system powered by AI — automatically produces structured configs from natural language inputs, reducing manual setup overhead.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20API-1a1a2e?style=flat-square&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Powered-6d28d9?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-2d6a4f?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%236d28d9?style=for-the-badge&logo=github)](https://github.com/Shivanshu0729/ai-config-generator-system)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### 🖐️ HandSafeNet — Hand Gesture Safety Detection
 > Real-time hand gesture recognition and safety classification using a custom CNN and Euclidean Distance-based gesture mapping.
 
@@ -66,21 +81,6 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 ![Euclidean Distance](https://img.shields.io/badge/Euclidean%20Distance-1a1a2e?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-%236d28d9?style=for-the-badge&logo=github)](https://github.com/Shivanshu0729/HandSafeNet-Model)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🚦 Traffic Signal Optimization using ML
-> Traffic management system using Genetic Algorithms for signal timing optimization and Random Forest for real-time flow prediction, served via Flask.
-
-![Genetic Algorithms](https://img.shields.io/badge/Genetic%20Algorithms-2d6a4f?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-1B4332?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-%236d28d9?style=for-the-badge&logo=github)](https://github.com/Shivanshu0729/Traffic_Optimization_project)
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 **If you found my work helpful, a ⭐ on the repo means a lot.**
 
