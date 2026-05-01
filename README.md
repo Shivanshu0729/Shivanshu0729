@@ -57,21 +57,6 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Config Generator System
-> An intelligent configuration generation system powered by AI — automatically produces structured configs from natural language inputs, reducing manual setup overhead.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic%20API-1a1a2e?style=flat-square&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Powered-6d28d9?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-2d6a4f?style=flat-square)
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-%236d28d9?style=for-the-badge&logo=github)](https://github.com/Shivanshu0729/ai-config-generator-system)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 ### 🖐️ HandSafeNet — Hand Gesture Safety Detection
 > Real-time hand gesture recognition and safety classification using a custom CNN and Euclidean Distance-based gesture mapping.
 
@@ -81,6 +66,21 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 ![Euclidean Distance](https://img.shields.io/badge/Euclidean%20Distance-1a1a2e?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-%236d28d9?style=for-the-badge&logo=github)](https://github.com/Shivanshu0729/HandSafeNet-Model)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🚦 Traffic Signal Optimization using ML
+> Traffic management system using Genetic Algorithms for signal timing optimization and Random Forest for real-time flow prediction, served via Flask.
+
+![Genetic Algorithms](https://img.shields.io/badge/Genetic%20Algorithms-2d6a4f?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-1B4332?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%236d28d9?style=for-the-badge&logo=github)](https://github.com/Shivanshu0729/Traffic_Optimization_project)
 
 </td>
 </tr>
