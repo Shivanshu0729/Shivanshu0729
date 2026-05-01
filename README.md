@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed-5b21b6-a855f7-ec4899-6d28d9&height=220&section=header&text=Shivanshu%20Gangwar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Computer%20Vision&descAlignY=60&descSize=16&descColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:a855f7,50:ec4899,75:f97316,100:0ea5e9&height=220&section=header&text=Shivanshu%20Gangwar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Computer%20Vision&descAlignY=60&descSize=16&descColor=FFFFFF" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=9D7FEA&center=true&vCenter=true&width=680&lines=Building+Real-World+ML+Projects+%F0%9F%9A%80;Deep+Learning+%7C+Computer+Vision+%7C+Predictive+Analytics;Turning+Data+into+Meaningful+Decisions+%F0%9F%93%8A;Always+Learning+%2C+Always+Building+%F0%9F%94%AC)](https://git.io/typing-svg)
 
@@ -152,7 +152,7 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed-ec4899-f97316-0ea5e9-10b981&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,25:0ea5e9,50:7c3aed,75:ec4899,100:f97316&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 **If you found my work helpful, a ⭐ on the repo means a lot.**
 
