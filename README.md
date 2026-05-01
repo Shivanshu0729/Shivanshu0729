@@ -74,7 +74,7 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🖐️ HandSafeNet — Hand Gesture Safety Detection
 > Real-time hand gesture recognition and safety classification using a custom CNN and Euclidean Distance-based gesture mapping.
@@ -87,7 +87,6 @@ I'm a computer science student with a strong focus on **Machine Learning and Dat
 [![View Repo](https://img.shields.io/badge/View%20Repository-%236d28d9?style=for-the-badge&logo=github)](https://github.com/Shivanshu0729/HandSafeNet-Model)
 
 </td>
-<td width="50%" valign="top">
 </tr>
 </table>
 
